@@ -57,7 +57,7 @@ export default function Home({isNightMode}) {
         <section className="intro">
           <h2 className="welcome">Welcome to my portfolio website!</h2>
           <h1 className="hero">
-            Hey folks, I'm <h className="hero2">{currentText}</h> 
+            Hi there, I'm <h className="hero2">{currentText}</h> 
           </h1>
           <h2 className="aboutme">
     I am Komatireddy Adithya Reddy, a Software Developer with expertise in AI, Machine Learning, and Full-Stack Development, dedicated to crafting innovative tech solutions.
