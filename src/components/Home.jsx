@@ -41,7 +41,7 @@ export default function Home({isNightMode}) {
 
   const handleResumeClick = () => {
     window.open(
-      "https://github.com/KAdithyaReddy/Resume-Mern-/blob/main/MERN_Resume____Software_Engineer%20(1).pdf"
+      "https://github.com/KAdithyaReddy/Resume/blob/main/MERN_Resume____Software_Engineer%20(1)%20(1).pdf"
     );
   };
   

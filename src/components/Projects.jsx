@@ -44,7 +44,7 @@ const projectsData = [
     title: "Portfolio Website",
     technologies: ["React JS","HTML", "CSS","JSX"],
     description: "A sleek and responsive portfolio app designed with React JS, ensuring seamless compatibility across all devices. It's a perfect showcase of my projects and skills, offering an intuitive and visually appealing experience.",
-  
+  githubLink: "https://github.com/KAdithyaReddy/Portfolio?tab=readme-ov-file",
     
     status: "Completed",
     image:pro6,
